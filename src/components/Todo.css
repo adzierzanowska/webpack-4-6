@@ -1,0 +1,14 @@
+.button {
+    float: right;
+    padding: 5px;
+    text-decoration: none;
+    color: #00646b;
+    font-size: 15px;
+    border: 0.5px solid rgb(0, 150, 150);
+    border-radius: 5px;
+}
+
+.todo {
+    color: rgb(0, 225, 233);
+
+}
